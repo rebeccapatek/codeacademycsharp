@@ -1,0 +1,10 @@
+/Users/rebeccapatek/workspace/codeacademycsharp/bin/Debug/netcoreapp3.1/codeacademycsharp.deps.json
+/Users/rebeccapatek/workspace/codeacademycsharp/bin/Debug/netcoreapp3.1/codeacademycsharp.runtimeconfig.json
+/Users/rebeccapatek/workspace/codeacademycsharp/bin/Debug/netcoreapp3.1/codeacademycsharp.runtimeconfig.dev.json
+/Users/rebeccapatek/workspace/codeacademycsharp/bin/Debug/netcoreapp3.1/codeacademycsharp.dll
+/Users/rebeccapatek/workspace/codeacademycsharp/bin/Debug/netcoreapp3.1/codeacademycsharp.pdb
+/Users/rebeccapatek/workspace/codeacademycsharp/obj/Debug/netcoreapp3.1/codeacademycsharp.csprojAssemblyReference.cache
+/Users/rebeccapatek/workspace/codeacademycsharp/obj/Debug/netcoreapp3.1/codeacademycsharp.AssemblyInfoInputs.cache
+/Users/rebeccapatek/workspace/codeacademycsharp/obj/Debug/netcoreapp3.1/codeacademycsharp.AssemblyInfo.cs
+/Users/rebeccapatek/workspace/codeacademycsharp/obj/Debug/netcoreapp3.1/codeacademycsharp.dll
+/Users/rebeccapatek/workspace/codeacademycsharp/obj/Debug/netcoreapp3.1/codeacademycsharp.pdb

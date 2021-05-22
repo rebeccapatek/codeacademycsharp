@@ -6,7 +6,10 @@ namespace codeacademycsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("C# is a strongly typed language");
+            Console.WriteLine();
+            Console.WriteLine("Type anything into the console and I'll try to figure out what it is so you can begin to learn datatypes.");
+            string strang = Console.ReadLine();
         }
     }
 }
